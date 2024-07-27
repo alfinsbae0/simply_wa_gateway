@@ -1,4 +1,4 @@
-#Simply WhatsApp Gateway.
+<h1>Simply WhatsApp Gateway</h1>
 
 features : 
 - send message
